@@ -1,0 +1,11 @@
+StudentID,BookID,IssueDate,Returned
+S001,Goosebumps,01-08-2025,Yes
+S002,Lord of the Rings,01-08-2025,No
+S003,Pharoh Returns,03-08-2025,Yes
+S004,Hunger Games,03-08-2025,No
+S005,Analysis ofAI,28-07-2025,Yes
+S006,Cloud Computing,28-07-2025,No
+S007,ISRO: Evolution,01-08-2025,Yes
+S008,Encylopedia,01-08-2025,No
+S009,Telecommunication,03-08-2025,Yes
+S010,Rise of Pharoh,28-07-2025,No
